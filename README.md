@@ -1,6 +1,6 @@
 # Flexbox
 
-<img src="public/images/giphy-flexbox.gif">
+<img src="public/images/daily-kitteh-pic.png">
 
 ### See it live
 
